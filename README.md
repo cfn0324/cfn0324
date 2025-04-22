@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chen Feining (陈芾宁)
+# 👋 Hi, I'm Chen Funing (陈芾宁)
 
 <p align="left">
   <a href="mailto:2249520721@qq.com"><img src="https://img.shields.io/badge/Email-2249520721@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
