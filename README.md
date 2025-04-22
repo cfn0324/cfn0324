@@ -10,7 +10,7 @@
   <!-- <a href="[Your LinkedIn Profile URL]"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 </p>
 
-I'm an undergraduate student at **Three Gorges University** (expected June 2026), majoring in **Computer Science & Technology** and minoring in **Mathematics & Applied Mathematics**.
+I'm an undergraduate student at **Three Gorges University** , majoring in **Computer Science & Technology** and minoring in **Mathematics & Applied Mathematics**.
 
 *   🎓 Pursuing B.Eng. in Computer Science and B.Sc. in Mathematics.
 *   💡 Passionate about **Algorithm Engineering**, **Quantitative Analysis**, **AI/Deep Learning**, and **Backend Development**.
