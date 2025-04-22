@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Chen Funing (陈芾宁)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfn0324&show_icons=true&theme=radical)
+
 <p align="left">
   <a href="mailto:2249520721@qq.com"><img src="https://img.shields.io/badge/Email-2249520721@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/cfn0324"><img src="https://img.shields.io/badge/GitHub-cfn0324-lightgrey?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
