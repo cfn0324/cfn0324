@@ -1,62 +1,44 @@
-# 👋 Hi, I'm Chen Funing (陈芾宁)
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfn0324)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfn0324&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <a href="mailto:2249520721@qq.com"><img src="https://img.shields.io/badge/Email-2249520721@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/cfn0324"><img src="https://img.shields.io/badge/GitHub-cfn0324-lightgrey?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Optional: Add LinkedIn or other relevant links -->
-  <!-- <a href="[Your LinkedIn Profile URL]"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=Chen%20Funing&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20%2F%20Quant%20%2F%20Backend&descAlignY=58&animation=fadeIn" alt="Chen Funing" />
 
-I'm an undergraduate student at **Three Gorges University** , majoring in **Computer Science & Technology** and minoring in **Mathematics & Applied Mathematics**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&height=48&color=58A6FF&lines=Computer+Science+%2B+Mathematics;AI+%7C+Quant+%7C+Backend;Build+less.+Think+deeper." alt="Typing SVG" />
 
-*   🎓 Pursuing B.Eng. in Computer Science and B.Sc. in Mathematics.
-*   💡 Passionate about **Algorithm Engineering**, **Quantitative Analysis**, **AI/Deep Learning**, and **Backend Development**.
-*   🌱 Enthusiastic about **open-source** and continuously learning new technologies.
-*   📍 Based in Yichang, China.
+<br />
+
+<a href="mailto:2249520721@qq.com"><img src="https://img.shields.io/badge/Email-2249520721@qq.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/cfn0324"><img src="https://img.shields.io/badge/GitHub-cfn0324-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### About
 
-*   **Operating Systems:**
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+Computer Science & Technology undergraduate at **Three Gorges University**, with a second track in **Mathematics & Applied Mathematics**.
 
-*   **Programming Languages:**
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-    ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+I like systems that are clear, useful, and fast.
 
-*   **Frameworks & Libraries:**
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-    ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-    ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### Focus
 
-*   **Tools & Platforms:**
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-    ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white)
-    ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=flat-square)
-    ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+`Algorithm Engineering` · `AI / Deep Learning` · `Quantitative Analysis` · `Backend Development`
 
-*   **Languages:** Chinese (Native), English
+### Stack
 
-<!-- Optional: Add GitHub Stats -->
-<!-- These require setting up GitHub Actions or using external services -->
-<!-- Example using anuraghazra/github-readme-stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cfn0324&show_icons=true&theme=radical" alt="cfn0324 GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfn0324&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
--->
+`C++` · `Python` · `Java` · `JavaScript` · `Spring Boot` · `Vue` · `PyTorch` · `MySQL` · `Linux`
+
+<div align="center">
+
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cfn0324&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfn0324&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>大道至简，知行合一。</sub>
+</div>
+
